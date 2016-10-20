@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+.main{
+    display: inline-block;   
+    text-align: left;
+}
+.sub{
+    display:inline;
+}
+.same{
+   display:
+}
+fieldset>legend{
+    color: brown;
+    font-size:20px;
+    background-color: aliceblue;
+}
+p{
+    background-color: skyblue;
+    display: inline;
+    font-size:15px;
+}
+label{
+    width:180px;
+    clear:left;
+    text-align:left;
+    padding-right:20px;
+}
+label>span{
+    color:red;
+}
+input,select{
+    background-color: aliceblue;
+}
+legend{
+    color:blue;
+    font-size:17px;
+}
+span{
+    color:skyblue;
+}
+h4,h5{
+    background-color: skyblue;
+    display: in
+}
+.submit{
+    background-color:  skyblue;
+    text-align: center;
+
+}
+h5{
+font-weight: lighter;
+}
